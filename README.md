@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @KusumChoudhary10
-- 👀 I’m interested in ...
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 
 <!---
 KusumChoudhary10/KusumChoudhary10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
