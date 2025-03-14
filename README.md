@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KusumChoudhary10
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 👀 I’m love in programming
+- 🌱 I’m learning
 - 💞️ I’m looking to collaborate on new projects
 - My linkedin - www.linkedin.com/in/kusum-choudhary-a19aa42bb
 - How to reach me :- https://www.instagram.com/kusum_choudhary10/
